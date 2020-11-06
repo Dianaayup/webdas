@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(mental4.jpeg);
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.menu{
+    background-color: rgb(12, 54, 61);
+    padding: 5px;
+}
+.menu ul li{
+    display: inline;
+    margin: 30px;
+}
+.menu ul li a{
+    color: rgb(238, 85, 85);
+    font-size: 20px;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: rgb(48,206,209);
+    border-bottom: 2px solid rgb(241, 83, 83);
+}
+.gambar img{
+    width: 1200px;
+    height: 400px;
+    margin-top: 10px;
+    border-bottom: 4px solid rgb(0,119,255);
+    border-top: 4px solid salmon;
+}
+.konten{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+.konten h2{
+    color: rgb(10, 9, 9);
+    font-weight: bold;
+    }
+.kontenp{
+    color: rgb(7, 4, 4);
+}
+.footer{
+    background-color: rgb(139,5,0);
+    padding: 0,5px;
+}
+.komputer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    font-size: 20px;
+}
